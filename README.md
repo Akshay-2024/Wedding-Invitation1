@@ -98,20 +98,6 @@ This project can be deployed easily on:
 - Netlify
 - GitHub Pages
 
-### Important
-
-Ensure the main file is named:
-
-```bash
-index.html
-```
-
-Otherwise deployment may show:
-
-```bash
-404: NOT_FOUND
-```
-
 ---
 
 ## 🎵 Music Setup
